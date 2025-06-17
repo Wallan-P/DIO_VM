@@ -1,4 +1,4 @@
-# DIO_VM
+# Criação de Máquina Virtual no Azure – Lab DIO
 Criação de uma Máquina Virtual (VM) no Microsoft Azure
 [VM.pdf](https://github.com/user-attachments/files/20615396/VM.pdf)
 [VM1.pdf](https://github.com/user-attachments/files/20615398/VM1.pdf)
